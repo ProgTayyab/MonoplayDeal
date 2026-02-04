@@ -1,11 +1,11 @@
-Monopoly Deal – Terminal Based Game (C++)
-📌 Overview
+**Monopoly Deal – Terminal Based Game (C++)
+📌 Overview**
 
 This project is a terminal-based implementation of the Monopoly Deal card game, developed in C++. The goal of the project was to apply object-oriented programming (OOP) concepts and data structures to build a complete, playable game using core programming principles.
 
 The game runs entirely in the terminal and simulates key mechanics of Monopoly Deal, including player turns, card management, and win conditions.
 
-🎯 Objectives
+**🎯 Objectives**
 
 Practice Object-Oriented Programming in C++
 
@@ -15,7 +15,7 @@ Design modular and maintainable code
 
 Implement real-world game logic in a terminal environment
 
-🧠 Concepts Used
+**🧠 Concepts Used**
 
 Object-Oriented Programming (Classes, Objects, Encapsulation, Inheritance)
 
@@ -27,7 +27,7 @@ Control structures and modular programming
 
 Input/output handling in terminal
 
-🕹️ Game Features
+**🕹️ Game Features**
 
 Terminal-based interactive gameplay
 
@@ -43,7 +43,7 @@ Win condition checking
 
 Clear and structured game logic
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 Language: C++
 
